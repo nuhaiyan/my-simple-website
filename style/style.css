@@ -3,5 +3,6 @@ background-color: aquamarine;
 margin-bottom: 10px;
 padding: 10px;
 text-align: justify;
-
+border-right: 30px solid black;
+border-radius: 0 30px 30px 0;
 }
